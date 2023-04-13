@@ -1,6 +1,6 @@
 import React, { PureComponent } from 'react';
 // import { DatePickerIOS } from 'react-native';
-import DateTimePicker from '@react-native-community/datetimepicker';
+import DateTimePicker from 'date-time-picker-bettercare';
 import PropTypes from 'prop-types';
 
 export default class DatePicker extends PureComponent {

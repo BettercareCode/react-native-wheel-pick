@@ -28,7 +28,7 @@
   "peerDependencies": {
     "moment": ">=2.0.0",
     "prop-types": "*",
-    "@react-native-community/datetimepicker": ">=6.1.3",
+    "date-time-picker-bettercare": "^1.0.0",
     "@react-native-picker/picker": ">=2.4.1"
   }
 }
